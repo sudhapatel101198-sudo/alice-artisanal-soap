@@ -1,0 +1,136 @@
+{
+  "soaps": [
+    {
+      "id": 1,
+      "type": "soap",
+      "name": "Alice Haldi Saffron Loofah Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.19_PM.jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 2,
+      "type": "soap",
+      "name": "Alice Mint Heart Bar Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.18_PM.jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 3,
+      "type": "soap",
+      "name": "Alice Turmeric & Sandalwood Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.18_PM_(2).jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 4,
+      "type": "soap",
+      "name": "Alice Rice Flour Exfoliating Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.22_PM_(1).jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 5,
+      "type": "soap",
+      "name": "Alice Charcoal Detox Soap",
+      "price": 320,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.22_PM.jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 6,
+      "type": "soap",
+      "name": "Alice Mint-Infused Glycerine Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.20_PM.jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 7,
+      "type": "soap",
+      "name": "Alice Lavender Goat Milk Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.21_PM.jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 8,
+      "type": "soap",
+      "name": "Alice Haldi \u2022 Saffron \u2022 Loofah Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.21_PM_(1).jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 9,
+      "type": "soap",
+      "name": "Alice Beetroot with Loofah Soap",
+      "price": 280,
+      "blurb": "Handmade glycerine bar with natural botanicals.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.18_PM_(1).jpeg",
+      "tag": "Handmade",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    }
+  ],
+  "bases": [
+    {
+      "id": 100,
+      "type": "base",
+      "name": "Alice Soap Base #1",
+      "price": 599,
+      "blurb": "Premium transparent glycerine soap base for crafting.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.19_PM.jpeg",
+      "tag": "Soap Base",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 101,
+      "type": "base",
+      "name": "Alice Soap Base #2",
+      "price": 599,
+      "blurb": "Premium transparent glycerine soap base for crafting.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.18_PM.jpeg",
+      "tag": "Soap Base",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 102,
+      "type": "base",
+      "name": "Alice Soap Base #3",
+      "price": 599,
+      "blurb": "Premium transparent glycerine soap base for crafting.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.18_PM_(2).jpeg",
+      "tag": "Soap Base",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    },
+    {
+      "id": 103,
+      "type": "base",
+      "name": "Alice Soap Base #4",
+      "price": 599,
+      "blurb": "Premium transparent glycerine soap base for crafting.",
+      "image": "/WhatsApp_Image_2025-10-21_at_6.30.22_PM_(1).jpeg",
+      "tag": "Soap Base",
+      "amazon": "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&product=B0FMNXH6KN&me=A7LB0BWELQTV3"
+    }
+  ]
+}
