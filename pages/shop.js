@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import Layout from '@/components/Layout'
-import ProductCard from '@/components/ProductCard'
-import data from '@/data/products.json'
+import Layout from '../components/Layout'
+import ProductCard from '../components/ProductCard'
+import data from '../data/products.json'
 
 export default function Shop(){
   return (

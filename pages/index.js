@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Layout from '../components/Layout'
-import ProductCard from '@/components/ProductCard'
-import data from '@/data/products.json'
+import ProductCard from '../components/ProductCard'
+import data from '../data/products.json'
 
 export default function Home() {
   const featured = [...data.soaps].slice(0,4)
