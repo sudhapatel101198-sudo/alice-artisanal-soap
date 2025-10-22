@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Layout from '@/components/Layout'
+import Layout from '../components/Layout'
 import ProductCard from '@/components/ProductCard'
 import data from '@/data/products.json'
 

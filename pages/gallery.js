@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Layout from '@/components/Layout'
+import Layout from '../components/Layout'
 export default function Gallery(){
   const imgs = [
     "/WhatsApp_Image_2025-10-21_at_6.30.22_PM.jpeg",
